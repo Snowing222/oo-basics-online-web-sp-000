@@ -1,4 +1,4 @@
-require_relative "./lib/book.rb"
+
 
 describe 'Book' do
   describe '::new' do
