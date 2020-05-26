@@ -6,4 +6,5 @@ class Book
 
   def turn_page(page)
     @page
+  end
 end
